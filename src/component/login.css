@@ -1,0 +1,28 @@
+.Loginpage{
+    background-color: beige;
+    height: 100vh;
+    width: 100vw;
+    background-image: url('../assets/3D logo.png');
+    background-position-x: right;
+    background-position-y: bottom ;
+    background-size: 100vh;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center ;
+    text-decoration: white;
+}
+
+.loginform{
+    display: flex;
+    align-items: center;
+    width: 40vh;
+    height: 60vh;
+}
+.form-container {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .form-container input {
+    padding-bottom: 10px; /* Adds space below each input element */
+  }

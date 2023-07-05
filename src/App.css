@@ -1,0 +1,54 @@
+/* .heading{
+   display: flex; 
+  justify-content: space-between;
+  align-items: center;
+}   
+
+.loginmain{
+    background-image: url(./assets/spacejoy-RqO6kwm4tZY-unsplash.jpg);
+    background-size: cover;
+   height: 100vh;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+}
+
+.loginform{
+    padding-right: 10vh;
+   height: 50vh;
+   width: 70vh;
+   display: flex;
+   flex-direction: column;
+   justify-content: space-evenly;
+}
+
+.catagories{
+    display: flex;
+    justify-content: space-around;
+}
+.catagories>a{
+    text-decoration:none;
+    font-size: large;
+    color: black;
+}
+.mainoption{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;   
+}
+.mainoption>a{
+    text-decoration: none !important;
+    font-size: x-large;
+    color:gray;
+}
+
+.active{
+    font-style: italic;
+    font-weight: 900;  
+
+}
+.login-btn>a{
+    text-decoration: none;
+   color: gray;
+   
+} */
